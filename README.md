@@ -17,10 +17,10 @@ Open the `index.html` file in either folder to preview the corresponding version
 
 ## 🔗 App Previews
 
-Version : Level 1, Preview Link : [View App](https://emertxeinfotech.github.io/wsa-music-player-app/level1/)  
+Version : Level 1, Preview Link : [View App](https://emertxeinfotech.github.io/wsa-music-player/level1/)  
 Screenshot : ![Level 1](level1/assets/images/wsa-music-player-level1-screenshot.jpg)  
 
-Version : Level 2, Preview Link : [View App](https://emertxeinfotech.github.io/wsa-music-player-app/level2/)  
+Version : Level 2, Preview Link : [View App](https://emertxeinfotech.github.io/wsa-music-player/level2/)  
 Screenshot : ![Level 2](level2/assets/images/wsa-music-player-level2-screenshot.jpg)  
 
 ---
